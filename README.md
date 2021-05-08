@@ -8,8 +8,6 @@
   
 * [Installation](#Installation)
   
-* [Usage](#Usage)
-  
 * [License](#License)
   
 * [Contributors](#Contributors)
@@ -18,7 +16,7 @@
   
  ## Description 
   
-This is my REACT portfolio project where I created a REACT portfolio with PROJECT 1&2  and 1 homework assignments. In addition, I have an updated resume and an updated LinkedIn profile.
+This is my REACT portfolio project where I created a REACT portfolio with all the required acceptance criteria. In addition, I have an updated resume and an updated LinkedIn profile.
 
  My page is responsive and most importantly includes REACT. Languages used to fulfill this assignment are:
 
@@ -39,14 +37,7 @@ PHOTO OF MY ASSIGNMENT:
 * npm start
 
     
- ## Usage
- 
 
- This  Online user Directory application allows users to:
-
-  * Sort the table by at least one category
-
-  * Filter the users by at least one property.
 
 <br>
 LANGUAGES USED ARE:

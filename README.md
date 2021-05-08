@@ -25,7 +25,7 @@ This is my REACT portfolio project where I created a REACT portfolio with PROJEC
 PHOTO OF MY ASSIGNMENT:
 
 
-<br>![photo of my assignment](./public/images/reactportfolio.PNG)
+<br>![photo of my assignment](.//public/images/reactportfolio.PNG)
 
 
 [link to my project](https://rabiahfh.github.io/Rabiah-Hogansportfolio/)

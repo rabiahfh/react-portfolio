@@ -98,7 +98,7 @@ function About() {
                         
                         <div class="col-md-6 col-lg-4 mb-5 mb-md-0">
                             <div class="portfolio-item mx-auto">
-                                <a class="project-tab-text" href="https:rabiahfh.github.io/Weather-Dashboard/"> <strong>Weather Board3</strong>
+                                <a class="project-tab-text" href="https:rabiahfh.github.io/Weather-Dashboard/"> <strong>Workout Tracker</strong>
                                     <div
                                         class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                         <div class="portfolio-item-caption-content text-center text-white"><i

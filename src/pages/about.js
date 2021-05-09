@@ -104,7 +104,7 @@ function About() {
                                         <div class="portfolio-item-caption-content text-center text-white"><i
                                             class="fas fa-plus fa-3x"></i></div>
                                     </div>
-                                    <img src="Images/weatherport.PNG" class="card-img-top"
+                                    <img src="Images/workout.PNG" class="card-img-top"
                                         alt="Page half white with writing saying reasoning ability other half purple with writing saying coding/decoding" />
                                 </a>
                             </div>

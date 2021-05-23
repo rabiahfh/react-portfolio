@@ -98,14 +98,14 @@ function About() {
                         
                         <div class="col-md-6 col-lg-4 mb-5 mb-md-0">
                             <div class="portfolio-item mx-auto">
-                                <a class="project-tab-text" href="https:rabiahfh.github.io/Weather-Dashboard/"> <strong>Workout Tracker</strong>
+                                <a class="project-tab-text" href="https://workout-trackerrh.herokuapp.com/"> <strong>Workout Tracker</strong>
                                     <div
                                         class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                         <div class="portfolio-item-caption-content text-center text-white"><i
                                             class="fas fa-plus fa-3x"></i></div>
                                     </div>
-                                    <img src="Images/workout.PNG" class="card-img-top"
-                                        alt="Page half white with writing saying reasoning ability other half purple with writing saying coding/decoding" />
+                                    <img src="./build/Images/workout.PNG" class="card-img-top"
+                                        alt="Blue workout tracker" />
                                 </a>
                             </div>
                         </div>
@@ -162,7 +162,7 @@ function About() {
                         </div>
                     </div>
                     <div class="text-center mt-4">
-                        <a class="btn btn-xl btn-outline-light" href="Images/Rabiah Resume.pdf" download> My Resume</a>
+                        <a class="btn btn-xl btn-outline-light" href="Images/Rabiah_Hogans_Resume_re.pdf" download> My Resume</a>
                         <i class="fas fa-download mr-2"></i>
 
                     </div>
